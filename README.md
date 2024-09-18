@@ -1,3 +1,4 @@
+![logo](https://github.com/Harshit1Deep/Harshit-Deep/blob/main/coding.jpg)
 <h1 align="center">Hi 👋, I'm Harshit Deep</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
